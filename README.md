@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinazaaa&label=Profile%20views&color=0e75b6&style=flat" alt="chinazaaa" /> </p>
 
-<p>🌟 A versatile product manager and developer with a deep commitment to delivering impactful digital solutions. Passionate about open-source contributions, collaborative innovation, and bridging the gap between product vision and technical execution.
+<p>🌟 A versatile project manager and developer with a deep commitment to delivering impactful digital solutions. Passionate about open-source contributions, collaborative innovation, and bridging the gap between product vision and technical execution.
 
 🔧 As a developer, I leverage my technical expertise to understand the intricate challenges faced by engineering teams, ensuring the alignment of product roadmaps with implementation realities. From managing feature prioritization to overseeing full product lifecycles, my focus remains on creating value-driven products.
 
@@ -19,8 +19,8 @@
 <img src="product-management.png" alt="Product Management Certification" style="height: 150px; margin-right: 50px;"> <img src="open-source-contributor.png" alt="Open Source Contributor" style="height: 150px; margin-right: 50px"> <img src="agile-scrum.png" alt="Agile Scrum" style="height: 150px; margin-right: 50px"> -->
 
 - 🌱 Currently deepening my knowledge in **Agile Methodologies** and **Advanced Product Management**.
-- 💬 Ask me about **Product Management, Software Development, and Open-Source Contribution**.
-- 📫 Reach me at **agnes.obiekwe@example.com**.
+- 💬 Ask me about **Project Management, Software Development, and Open-Source Contribution**.
+- 📫 Reach me at **obiekweagnesmary@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
